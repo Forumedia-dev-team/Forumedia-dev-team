@@ -1,5 +1,5 @@
 <?
-
+//
 $arResult = CAllcorp3::getChilds2($arResult);
 global $arTheme;
 $MENU_TYPE = $arTheme['MEGA_MENU_TYPE']['VALUE'];
